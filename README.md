@@ -57,7 +57,7 @@ AAOS 탑재 차량이 주차장 진입부터 요금 결제, 출차까지 사용�
 #### 🅿️ ParkFlow — MSA 기반 주차장 여석 조회 서비스
 VirtualBox + kubeadm 셀프 매니지드 클러스터 위에서 5개 마이크로서비스로 분리한 주차장 잔여석 조회 시스템
 
-<a href="https://github.com/Jhd1006/ParkFlow">🔗 GitHub</a>
+<a href="https://github.com/Jhd1006/Deploy">🔗 GitHub</a>
 
 ---
 
